@@ -83,3 +83,6 @@ Check out the [changelog](https://github.com/Metallic-Web/Metallic/blob/main/CHA
 
 ## License
 Metallic uses the MIT license.
+
+## If blocked:
+Go to : https://liammisveryepic2eletricboogaloo.onrender.com/
